@@ -1,0 +1,5 @@
+>> sudo nano /etc/crontab
+@reboot root /home/van_rossum/mount_terradisk_pop_os.sh
+
+>> crontab -e
+@reboot /home/van_rossum/webguillm.sh
